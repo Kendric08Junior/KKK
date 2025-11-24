@@ -1,0 +1,417 @@
+<resources>
+
+    <!-- App Core -->
+    <string name="app_name">FitKage Health</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="meditate">Meditate</string>
+    <string name="gym">Gym</string>
+    <string name="email_address">Email Address</string>
+
+    <!-- Main Screen -->
+    <string name="title_fitkage_health">FitKage Health</string>
+    <string name="settings">Settings</string>
+    <string name="weather">Weather</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="victory_quote">Victory is earned through sweat, blood, and tears, not talent!</string>
+
+    <!-- Stats -->
+    <string name="steps">Steps</string>
+    <string name="distance">Distance</string>
+
+    <!-- Quick Actions -->
+    <string name="quick_actions">Quick Actions</string>
+    <string name="walk">Walk</string>
+    <string name="run">Run</string>
+    <string name="bike">Bike</string>
+    <string name="hiking">Hiking</string>
+
+    <!-- Water & Nutrition -->
+    <string name="water_intake">Water Intake</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="track_your_meals">Track your meals</string>
+    <string name="explore_food">Explore Food</string>
+    <string name="add_250ml">+ 250ml</string>
+    <string name="goal_2000ml">/ 2000ml</string>
+
+    <!-- AI Assistant -->
+    <string name="ai_health_assistant">AI Health Assistant</string>
+    <string name="ai_health_assistant_desc">Get personalized health advice</string>
+
+    <!-- Authentication -->
+
+    <!-- Login -->
+    <string name="login_welcome_back">Welcome Back</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="type_your_password">Type your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet? Sign Up!</string>
+
+    <!-- Signup -->
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_registered_sign_in">Already registered? Sign In</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Forgot Password?</string>
+    <string name="forgot_password_instruction">Enter your email below and we'll help you reset your password.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <!-- Login Errors -->
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="incorrect_email_password">Incorrect email or password</string>
+
+    <!-- Biometric -->
+    <string name="biometric_no_hardware">This device has no biometric hardware</string>
+    <string name="biometric_unavailable">Biometric hardware unavailable</string>
+    <string name="biometric_not_enrolled">No fingerprint enrolled, skipping biometric login</string>
+    <string name="auth_error">Authentication error: %s</string>
+    <string name="auth_success">Authentication success!</string>
+    <string name="auth_failed">Authentication failed. Try again.</string>
+    <string name="biometric_title">Confirm Your Identity</string>
+    <string name="biometric_subtitle">Fingerprint Authentication Required</string>
+    <string name="biometric_description">Please use your fingerprint to confirm login</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Profile/ Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="notification">Notification</string>
+    <string name="language">Language</string>
+    <string name="download_personal_data">Download Personal Data</string>
+    <string name="faqs">FAQs</string>
+    <string name="send_message">Send Us A Message</string>
+    <string name="logout">Logout</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_image">Profile Image</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">user@email.com</string>
+    <string name="current_weight">Current Weight</string>
+    <string name="filter_data">Filter Data</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="apply_range">Apply Range</string>
+    <string name="clear">Clear</string>
+    <string name="statistics">Statistics</string>
+    <string name="workouts">Workouts</string>
+    <string name="recipes">Recipes</string>
+    <string name="progress">Progress</string>
+    <string name="workout_statistics">Workout Statistics</string>
+    <string name="recipe_statistics">Recipe Statistics</string>
+    <string name="no_workouts_found">No workouts found</string>
+    <string name="no_recipes_found">No recipes found</string>
+    <string name="weight_progress">Weight Progress</string>
+
+
+    <!-- Workout -->
+
+    <!-- Workout List -->
+    <string name="workout_exercises">Workout Exercises</string>
+    <string name="chest_workout">Chest Workout</string>
+    <string name="exercise_count_default">12 exercises</string>
+
+    <!-- Workout Creation -->
+    <string name="exercise_added">%s added to workout</string>
+    <string name="exercise_removed">%s removed</string>
+    <string name="exercise_already_added">Exercise already added</string>
+    <string name="empty_workout_name">Please enter a workout name</string>
+    <string name="add_exercise_warning">Please add at least one exercise</string>
+    <string name="exercise_settings_invalid">Please enter valid numbers</string>
+    <string name="exercise_settings_title">Edit %s</string>
+    <string name="workout_saved">Workout saved successfully!</string>
+    <string name="my_custom_workout">My Custom Workout (%d exercises)</string>
+    <string name="enter_workout_name">Enter workout name</string>
+
+    <!-- Exercise Search -->
+    <string name="search_empty">No exercises found</string>
+    <string name="search_results">%d exercises</string>
+    <string name="search_loading">Searching...</string>
+
+
+    <!-- Food and Nutrition -->
+    <string name="nutrition_hub">Nutrition Hub</string>
+    <string name="todays_nutrition">Today's Nutrition</string>
+    <string name="consumed_default">700 cal</string>
+    <string name="remaining_calories_default">1300 cal left</string>
+    <string name="goal_2000_cal">Goal: 2000 cal</string>
+
+    <!-- Quick Actions (Food) -->
+    <string name="recipe_search">Recipe Search</string>
+    <string name="random_recipes">Random Recipes</string>
+    <string name="food_log">Food Log</string>
+    <string name="meal_plan">Meal Plan</string>
+    <string name="nutrition_analysis">Nutrition Analysis</string>
+    <string name="meal_prep">Meal Prep</string>
+
+    <!-- Food Log -->
+    <string name="today">Today</string>
+    <string name="food_entries">Food entries</string>
+    <string name="add_food">Add Food</string>
+
+    <!-- Nutrition Summary -->
+    <string name="calories">Calories</string>
+    <string name="protein">Protein</string>
+    <string name="carbs">Carbs</string>
+    <string name="fat">Fat</string>
+
+    <!-- Meal Plan -->
+    <string name="meal_planning">Meal Planning</string>
+    <string name="weekly_meal_plan">Weekly Meal Plan</string>
+    <string name="meal_plan_description">Generate a personalized meal plan based on your goals</string>
+    <string name="generate_plan">Generate Plan</string>
+    <string name="save_plan">Save Plan</string>
+    <string name="previous_week">← Previous</string>
+    <string name="next_week">Next →</string>
+    <string name="this_week">This Week</string>
+
+    <!-- Weekdays -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- Text Block -->
+
+    <string name="weekly_nutrition_summary">Weekly Nutrition Summary</string>
+    <string name="generate_plan_to_see_summary">Generate a meal plan to see the nutrition summary</string>
+    <string name="monday_meals">Monday's Meals</string>
+    <string name="no_meals_today">No meals for this day</string>
+    <string name="total_calories_example">Total: 1400 cal</string>
+
+
+    <!-- Progress Tracker -->
+
+    <string name="progress_tracker">Progress Tracker</string>
+    <string name="weight_change_default">+0.0 kg vs last</string>
+    <string name="entries">Entries</string>
+    <string name="photos">Photos</string>
+    <string name="progress_summary">Track your fitness journey with photos and measurements</string>
+    <string name="progress_timeline">Progress Timeline</string>
+    <string name="all_time">All Time</string>
+
+    <!-- Empty State -->
+    <string name="no_progress_entries">No Progress Entries</string>
+    <string name="start_tracking_progress">Start tracking your fitness journey\nwith photos and measurements</string>
+    <string name="add_first_entry">Add First Entry</string>
+
+    <!-- FAB -->
+    <string name="add_entry">Add Entry</string>
+
+
+    <!-- Meditation -->
+
+    <string name="meditation_title">Meditation and Emotional Check-In</string>
+    <string name="meditation_subtitle">Take a moment — breathe with the audio below</string>
+    <string name="choose_music">Choose meditation music</string>
+    <string name="play_pause">Play or Pause</string>
+    <string name="guided_voice_over">Guided voice-over</string>
+    <string name="play_voice_over">Play Voice-Over</string>
+    <string name="time_zero">0:00</string>
+
+    <string name="how_do_you_feel">How do you feel?</string>
+    <string name="what_caused_feeling">What caused that feeling?</string>
+    <string name="what_helps_relax">What helps you relax?</string>
+    <string name="what_can_you_change">What can you change?</string>
+
+    <string name="reflect_and_breathe">Reflect and Breathe</string>
+    <string name="back_to_main">Back to Main Screen</string>
+
+
+    <!-- Notifications -->
+
+    <string name="notifications_enabled">Notifications enabled</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="notification_title_hey">Hey!</string>
+    <string name="notification_demo_message">This is an immediate notification</string>
+
+    <string name="daily_workout_title">Daily Workout</string>
+    <string name="daily_workout_message">Time to move!</string>
+
+    <string name="enable_notifications">Enable Notifications?</string>
+    <string name="enable_notifications_confirm">Are you sure you want notifications?</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="notifications_off">Notifications off</string>
+
+
+    <!-- Profile Errors -->
+
+    <string name="profile_image_saved">Profile image saved!</string>
+    <string name="profile_image_failed">Failed to save image</string>
+
+    <string name="no_user_data">No user data found. Complete your profile.</string>
+    <string name="failed_to_load_data">Failed to load data</string>
+
+    <string name="about_us_title">About Us</string>
+
+
+    <!-- Generic Text -->
+
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading...</string>
+    <string name="no_data">No data available</string>
+
+
+    <!-- Filters -->
+
+    <string name="filter_this_week">This Week</string>
+    <string name="filter_this_month">This Month</string>
+    <string name="filter_this_year">This Year</string>
+    <string name="filter_all_time">All Time</string>
+
+
+    <!-- Statistics Labels -->
+
+    <string name="label_workouts">Workouts</string>
+    <string name="label_calories">Calories</string>
+    <string name="label_exercise_time">Exercise Time</string>
+    <string name="label_exercises">Exercises</string>
+
+
+    <!-- Weight String -->
+
+    <string name="kg_format">%s kg</string>
+    <string name="kg_format_decimal">%.1f kg</string>
+
+    <!-- Export -->
+
+    <string name="export_data">Export Data</string>
+    <string name="export_failed">Export failed: %s</string>
+    <string name="export_failed_generic">Export failed</string>
+
+    <!-- CSV -->
+    <string name="csv_workout_header">Workout History</string>
+    <string name="csv_workout_columns">Date,Workout Name,Duration,Calories,Exercises Completed,Rating</string>
+
+    <string name="csv_recipe_header">Recipe History</string>
+    <string name="csv_recipe_columns">Date,Recipe Name,Calories,Protein,Carbs,Fat,Rating</string>
+
+
+    <!-- Workout Details -->
+
+    <string name="workout_details_date">Date: %s</string>
+    <string name="workout_details_duration">Duration: %s</string>
+    <string name="workout_details_calories">Calories: %d cal</string>
+    <string name="workout_details_exercises">Exercises: %d/%d</string>
+    <string name="workout_details_rating">Rating: %d/5</string>
+    <string name="workout_details_notes">Notes: %s</string>
+
+
+    <!-- Recipe Details -->
+
+    <string name="recipe_details_date">Date: %s</string>
+    <string name="recipe_details_calories">Calories: %d cal</string>
+    <string name="recipe_details_protein">Protein: %dg</string>
+    <string name="recipe_details_carbs">Carbs: %dg</string>
+    <string name="recipe_details_fat">Fat: %dg</string>
+    <string name="recipe_details_rating">Rating: %s/5</string>
+    <string name="not_rated">Not rated</string>
+
+
+    <!-- Goals -->
+
+    <string name="set_goals">Set Fitness Goals</string>
+    <string name="goals_saved">Goals saved successfully!</string>
+    <string name="goals_failed">Failed to save goals</string>
+
+
+    <!-- Achievements -->
+
+    <string name="your_achievements">Your Achievements</string>
+    <string name="ach_unlocked_on">Unlocked on: %s</string>
+    <string name="ach_progress">Progress: %d/%d</string>
+    <string name="ach_status">Status: %s</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="locked">Locked</string>
+
+    <string name="ach_first_workout">First Workout</string>
+    <string name="ach_first_workout_desc">Complete your first workout</string>
+
+    <string name="ach_streak_7">Weekly Warrior</string>
+    <string name="ach_streak_7_desc">Work out for 7 consecutive days</string>
+
+    <string name="ach_calories_10000">Calorie Crusher</string>
+    <string name="ach_calories_10000_desc">Burn 10,000 total calories</string>
+
+    <string name="ach_recipes_10">Master Chef</string>
+    <string name="ach_recipes_10_desc">Cook 10 different recipes</string>
+
+
+    <!-- Weather Core -->
+
+    <string name="location_enable_prompt">Please enable location services</string>
+    <string name="error_fetch_weather">Failed to fetch weather data</string>
+    <string name="error_location_permission_denied">Location permission denied</string>
+
+
+    <!-- Weather Labels -->
+
+    <string name="weather_updated_at">Updated at: %1$s</string>
+    <string name="temp_celsius_format">%1$d°C</string>
+    <string name="feels_like_format">Feels like %1$d°C</string>
+    <string name="temp_min_format">L: %1$d°C</string>
+    <string name="temp_max_format">H: %1$d°C</string>
+    <string name="pressure_format">%1$s hPa</string>
+    <string name="humidity_format">%1$s%%</string>
+    <string name="wind_speed_format">%1$s m/s</string>
+    <string name="wind_speed_suffix">m/s</string>
+    <string name="visibility_km_format">%1$d km</string>
+
+
+    <!-- Weather Activities -->
+
+    <string name="activity_running">Running</string>
+    <string name="activity_cycling">Cycling</string>
+    <string name="activity_hiking">Hiking</string>
+    <string name="activity_outdoor_gym">Outdoor Gym</string>
+    <string name="activity_swimming">Swimming</string>
+
+
+    <!-- Weather Recommendations -->
+
+    <!-- Running -->
+    <string name="running_recommendation_perfect">Perfect running conditions! Ideal temperature and clear skies.</string>
+    <string name="running_recommendation_good">Good for running. Dress appropriately for the temperature.</string>
+    <string name="running_recommendation_fair">Fair conditions. Consider indoor alternatives.</string>
+    <string name="running_recommendation_poor">Not ideal for running. Weather conditions are poor.</string>
+
+    <!-- Cycling -->
+    <string name="cycling_recommendation_excellent">Excellent cycling weather! Low wind and good visibility.</string>
+    <string name="cycling_recommendation_good">Good for cycling. Watch for occasional gusts.</string>
+    <string name="cycling_recommendation_fair">Fair conditions. Consider wind resistance.</string>
+    <string name="cycling_recommendation_poor">Challenging conditions. High wind or poor visibility.</string>
+
+    <!-- Hiking -->
+    <string name="hiking_recommendation_perfect">Perfect hiking weather! Great visibility and comfortable temperature.</string>
+    <string name="hiking_recommendation_good">Good for hiking. Trails should be enjoyable.</string>
+    <string name="hiking_recommendation_fair">Fair conditions. Check trail conditions first.</string>
+    <string name="hiking_recommendation_poor">Poor hiking conditions. Limited visibility or unfavorable weather.</string>
+
+    <!-- Outdoor Gym -->
+    <string name="gym_recommendation_ideal">Ideal for outdoor workouts! Comfortable temperature.</string>
+    <string name="gym_recommendation_good">Good conditions for outdoor exercise.</string>
+    <string name="gym_recommendation_fair">Fair for outdoor workouts. Dress in layers.</string>
+    <string name="gym_recommendation_indoor">Consider an indoor gym. Weather not suitable for outdoor exercise.</string>
+
+    <!-- Swimming -->
+    <string name="swimming_recommendation_perfect">Perfect swimming weather! Warm and sunny.</string>
+    <string name="swimming_recommendation_good">Good for swimming. Water might be refreshing.</string>
+    <string name="swimming_recommendation_cool">Cool for swimming. Consider a heated pool.</string>
+
+</resources>

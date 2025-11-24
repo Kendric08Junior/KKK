@@ -1,0 +1,417 @@
+<resources>
+
+   <string name="app_name">FitKage Gesondheid</string>
+
+
+    <!-- Main Screen-->
+
+    <string name="settings">Instellings</string>
+    <string name="weather">Weer</string>
+    <string name="welcome_back">Welkom Terug!</string>
+    <string name="motivation_quote">Oorwinning word deur sweet, bloed en trane verdien — nie talent nie!</string>
+
+    <!-- Stats -->
+    <string name="steps">Stappe</string>
+    <string name="distance">Afstand</string>
+
+    <!-- Quick Actions -->
+    <string name="quick_actions">Vinnige Aksies</string>
+    <string name="walk">Stap</string>
+    <string name="run">Hardloop</string>
+    <string name="meditate">Mediteer</string>
+    <string name="bike">Fietsry</string>
+    <string name="hiking">Staproetes</string>
+    <string name="weather_title">Weer</string>
+
+    <!-- Water & Nutrition -->
+    <string name="water_intake">Waterinname</string>
+    <string name="nutrition">Voeding</string>
+    <string name="track_meals">Volg jou etes</string>
+    <string name="explore_food">Verken Kos</string>
+    <string name="add_water">+ 250ml</string>
+    <string name="water_goal_suffix">/ 2000ml</string>
+
+    <!-- AI Assistant -->
+    <string name="ai_assistant">AI Gesondheidsassistent</string>
+    <string name="ai_assistant_desc">Kry persoonlike gesondheidsadvies</string>
+
+
+    <!-- Login and Auth -->
+
+    <string name="type_your_email">Tik jou e-pos</string>
+    <string name="type_your_password">Tik jou wagwoord</string>
+    <string name="sign_in">Meld Aan</string>
+    <string name="not_registered_yet_sign_up">Nie geregistreer nie? Skryf in!</string>
+    <string name="forgot_password">Wagwoord Vergeet</string>
+
+    <!-- Gender Options -->
+    <string-array name="gender_array">
+        <item>Manlik</item>
+        <item>Vroulik</item>
+        <item>Ander</item>
+    </string-array>
+
+    <!-- Login Screen -->
+    <string name="login_welcome_back">Welkom Terug</string>
+    <string name="email_hint">E-posadres</string>
+    <string name="password_hint">Wagwoord</string>
+    <string name="not_registered_yet">Nog nie geregistreer nie? Skryf in</string>
+
+    <!-- Signup -->
+    <string name="create_account">Skep Rekening</string>
+    <string name="confirm_password">Bevestig Wagwoord</string>
+    <string name="sign_up">Registreer</string>
+    <string name="already_registered_sign_in">Reeds geregistreer? Meld Aan</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Wagwoord Vergeet?</string>
+    <string name="forgot_password_instruction">Voer jou e-pos hieronder in en ons sal jou help om jou wagwoord te herstel.</string>
+    <string name="reset_password">Herstel Wagwoord</string>
+    <string name="back_to_login">Terug na Aanmelding</string>
+
+
+    <!-- About Us -->
+
+    <string name="about_us">Oor Ons</string>
+    <string name="who_we_are">Wie Ons Is</string>
+    <string name="who_we_are_desc">FitKage Gesondheid is jou alles-in-een fiksheid- en welstandplatform. Ons maak ’n gesonde leefstyl makliker met eenvoudige gereedskap, motivering en persoonlike leiding.</string>
+    <string name="our_mission">Ons Missie</string>
+    <string name="our_mission_desc">Ons wil gesonder gewoontes inspireer deur fiksheidsopsporing, voedingsbeplanning en gemeenskapsmotivering saam te bring — en jou elke tree van die pad te ondersteun.</string>
+
+
+    <!-- Profile and Settings -->
+
+    <string name="settings_title">Instellings</string>
+    <string name="edit_profile">Wysig Profiel</string>
+    <string name="notification">Kennisgewings</string>
+    <string name="language">Taal</string>
+    <string name="download_personal_data">Laai Persoonlike Data Af</string>
+    <string name="faqs">Vrae</string>
+    <string name="send_message">Stuur vir Ons ’n Boodskap</string>
+    <string name="logout">Teken Uit</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_image">Profielfoto</string>
+    <string name="user_name">Gebruikersnaam</string>
+    <string name="user_email">gebruiker@email.com</string>
+    <string name="current_weight">Huidige Gewig</string>
+    <string name="filter_data">Filtreer Data</string>
+    <string name="start_date">Begindatum</string>
+    <string name="end_date">Einddatum</string>
+    <string name="apply_range">Pas Reeks Toe</string>
+    <string name="clear">Vee Uit</string>
+    <string name="statistics">Statistieke</string>
+    <string name="workouts">Oefensessies</string>
+    <string name="recipes">Resepte</string>
+    <string name="progress">Vordering</string>
+    <string name="workout_statistics">Oefenstatistieke</string>
+    <string name="recipe_statistics">Resepstatistieke</string>
+    <string name="no_workouts_found">Geen oefensessies gevind nie</string>
+    <string name="no_recipes_found">Geen resepte gevind nie</string>
+    <string name="weight_progress">Gewigsverloop</string>
+
+
+    <!-- Workout List -->
+
+    <string name="workout_exercises">Oefeninge</string>
+    <string name="chest_workout">Borsoefensessie</string>
+    <string name="exercise_count_default">12 oefeninge</string>
+
+
+    <!-- Workout Creation -->
+
+    <string name="exercise_added">%s by oefensessie gevoeg</string>
+    <string name="exercise_removed">%s verwyder</string>
+    <string name="exercise_already_added">Oefening is reeds bygevoeg</string>
+    <string name="empty_workout_name">Voer asseblief ’n oefensessie naam in</string>
+    <string name="add_exercise_warning">Voeg asseblief minstens een oefening by</string>
+    <string name="exercise_settings_invalid">Voer asseblief geldige waardes in</string>
+    <string name="exercise_settings_title">Wysig %s</string>
+    <string name="workout_saved">Oefensessie '%s' suksesvol gestoor!</string>
+    <string name="my_custom_workout">My Pasgemaakte Oefensessie (%d oefeninge)</string>
+    <string name="enter_workout_name">Voer oefensessie naam in</string>
+
+    <!-- Exercise Search -->
+    <string name="search_empty">Geen oefeninge gevind nie</string>
+    <string name="search_results">%d oefeninge</string>
+    <string name="search_loading">Besig om te soek...</string>
+
+
+    <!-- Food and Nutrition -->
+
+    <string name="nutrition_hub">Voedingsentrum</string>
+    <string name="todays_nutrition">Vandag se Voeding</string>
+    <string name="consumed_default">700 kal</string>
+    <string name="remaining_calories_default">1300 kal oor</string>
+    <string name="goal_2000_cal">Doelwit: 2000 kal</string>
+
+    <!-- Quick Actions (Food) -->
+    <string name="recipe_search">Resep Soek</string>
+    <string name="random_recipes">Lukrake Resepte</string>
+    <string name="food_log">Koslogboek</string>
+    <string name="meal_plan">Maaltydplan</string>
+    <string name="nutrition_analysis">Voedingsanalise</string>
+    <string name="meal_prep">Maaltydvoorbereiding</string>
+
+    <!-- Food Log -->
+    <string name="today">Vandag</string>
+    <string name="food_entries">Kosinskrywings</string>
+    <string name="add_food">Voeg Kos By</string>
+
+    <!-- Nutrition Summary -->
+    <string name="calories">Kalorieë</string>
+    <string name="protein">Proteïen</string>
+    <string name="carbs">Koolhidrate</string>
+    <string name="fat">Vet</string>
+
+    <!-- Meal Plan -->
+    <string name="meal_planning">Maaltydbeplanning</string>
+    <string name="weekly_meal_plan">Weeklikse Maaltydplan</string>
+    <string name="meal_plan_description">Genereer ’n persoonlike maaltydplan gebaseer op jou doelwitte</string>
+    <string name="generate_plan">Genereer Plan</string>
+    <string name="save_plan">Stoor Plan</string>
+    <string name="previous_week">← Vorige</string>
+    <string name="next_week">Volgende →</string>
+    <string name="this_week">Hierdie Week</string>
+
+    <!-- Weekdays -->
+    <string name="monday">Maandag</string>
+    <string name="tuesday">Dinsdag</string>
+    <string name="wednesday">Woensdag</string>
+    <string name="thursday">Donderdag</string>
+    <string name="friday">Vrydag</string>
+    <string name="saturday">Saterdag</string>
+    <string name="sunday">Sondag</string>
+
+    <!-- Others -->
+    <string name="weekly_nutrition_summary">Weeklikse Voedingsopsomming</string>
+    <string name="generate_plan_to_see_summary">Genereer ’n maaltydplan om die voedingsopsomming te sien</string>
+    <string name="monday_meals">Maandag se Maaltye</string>
+    <string name="no_meals_today">Geen maaltye vir hierdie dag nie</string>
+    <string name="total_calories_example">Totaal: 1400 kal</string>
+
+
+    <!-- Progress Tracker -->
+
+    <string name="progress_tracker">Vordering Tracker</string>
+    <string name="weight_change_default">+0.0 kg teenoor laaste</string>
+    <string name="entries">Inskrywings</string>
+    <string name="photos">Foto's</string>
+    <string name="progress_summary">Volg jou fiksheidsreis met foto's en metings</string>
+    <string name="progress_timeline">Vorderingstydlyn</string>
+    <string name="all_time">Alle Tye</string>
+
+    <!-- Empty State -->
+    <string name="no_progress_entries">Geen Vorderingsinskrywings nie</string>
+    <string name="start_tracking_progress">Begin jou fiksheidsreis volg\nmet foto's en metings</string>
+    <string name="add_first_entry">Voeg Eerste Inskrywing By</string>
+
+    <!-- FAB -->
+    <string name="add_entry">Voeg Inskrywing By</string>
+
+
+    <!-- Meditation -->
+
+    <string name="meditation_title">Meditasie en Emosionele Tjek-In</string>
+    <string name="meditation_subtitle">Neem ’n oomblik — asem saam met die klank hieronder</string>
+    <string name="choose_music">Kies meditasie-musiek</string>
+    <string name="play_pause">Speel of Pouseer</string>
+    <string name="guided_voice_over">Geleide Stemoor</string>
+    <string name="play_voice_over">Speel Stemoor</string>
+    <string name="time_zero">0:00</string>
+
+    <string name="how_do_you_feel">Hoe voel jy?</string>
+    <string name="what_caused_feeling">Wat het daardie gevoel veroorsaak?</string>
+    <string name="what_helps_relax">Wat help jou ontspan?</string>
+    <string name="what_can_you_change">Wat kan jy verander?</string>
+
+    <string name="reflect_and_breathe">Reflekteer en Asem</string>
+    <string name="back_to_main">Terug na Hoofskerm</string>
+
+
+    <!-- Notifications -->
+
+    <string name="notifications_enabled">Kennisgewings aangeskakel</string>
+    <string name="permission_denied">Toestemming geweier</string>
+    <string name="notification_title_hey">Haai!</string>
+    <string name="notification_demo_message">Dit is ’n onmiddellike kennisgewing</string>
+
+    <string name="daily_workout_title">Daaglikse Oefensessie</string>
+    <string name="daily_workout_message">Tyd om te beweeg!</string>
+
+    <string name="enable_notifications">Skakel kennisgewings aan?</string>
+    <string name="enable_notifications_confirm">Is jy seker jy wil kennisgewings hê?</string>
+
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+
+    <string name="notifications_off">Kennisgewings af</string>
+
+
+    <!-- Profile Errors -->
+
+    <string name="profile_image_saved">Profielprent gestoor!</string>
+    <string name="profile_image_failed">Kon nie profielprent stoor nie</string>
+
+    <string name="no_user_data">Geen gebruikersdata gevind nie. Voltooi jou profiel.</string>
+    <string name="failed_to_load_data">Kon nie data laai nie</string>
+
+    <string name="about_us_title">Oor Ons</string>
+
+
+    <!-- Generic Text -->
+
+    <string name="ok">OK</string>
+    <string name="save">Stoor</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="loading">Laai…</string>
+    <string name="no_data">Geen data beskikbaar nie</string>
+
+
+    <!-- Filters -->
+
+    <string name="filter_this_week">Hierdie Week</string>
+    <string name="filter_this_month">Hierdie Maand</string>
+    <string name="filter_this_year">Hierdie Jaar</string>
+    <string name="filter_all_time">Alle Tye</string>
+
+
+    <!-- Statistics Level -->
+
+    <string name="label_workouts">Oefensessies</string>
+    <string name="label_calories">Kalorieë</string>
+    <string name="label_exercise_time">Oefentyd</string>
+    <string name="label_exercises">Oefeninge</string>
+
+
+    <!-- Weight Strengths -->
+
+    <string name="kg_format">%s kg</string>
+    <string name="kg_format_decimal">%.1f kg</string>
+
+
+    <!-- Export -->
+
+    <string name="export_data">Voer Data Uit</string>
+    <string name="export_failed">Uitvoer het misluk: %s</string>
+    <string name="export_failed_generic">Uitvoer het misluk</string>
+
+    <string name="csv_workout_header">Oefengeskiedenis</string>
+    <string name="csv_workout_columns">Datum,Oefennaam,Duur,Kalorieë,Oefeninge Voltooi,Gradering</string>
+
+    <string name="csv_recipe_header">Resepgeskiedenis</string>
+    <string name="csv_recipe_columns">Datum,Resepnaam,Kalorieë,Proteïen,Koolhidrate,Vet,Gradering</string>
+
+
+    <!-- Workout Details -->
+
+    <string name="workout_details_date">Datum: %s</string>
+    <string name="workout_details_duration">Duur: %s</string>
+    <string name="workout_details_calories">Kalorieë: %d cal</string>
+    <string name="workout_details_exercises">Oefeninge: %d/%d</string>
+    <string name="workout_details_rating">Gradering: %d/5</string>
+    <string name="workout_details_notes">Notas: %s</string>
+
+
+    <!-- Recipe Details -->
+
+    <string name="recipe_details_date">Datum: %s</string>
+    <string name="recipe_details_calories">Kalorieë: %d cal</string>
+    <string name="recipe_details_protein">Proteïen: %dg</string>
+    <string name="recipe_details_carbs">Koolhidrate: %dg</string>
+    <string name="recipe_details_fat">Vet: %dg</string>
+    <string name="recipe_details_rating">Gradering: %s/5</string>
+    <string name="not_rated">Nie gegradeer nie</string>
+
+
+    <!-- Goals -->
+
+    <string name="set_goals">Stel Fiksheidsdoelwitte</string>
+    <string name="goals_saved">Doelwitte suksesvol gestoor!</string>
+    <string name="goals_failed">Kon nie doelwitte stoor nie</string>
+
+
+    <!-- Achievements -->
+
+    <string name="your_achievements">Jou Prestasies</string>
+    <string name="ach_unlocked_on">Ontsluit op: %s</string>
+    <string name="ach_progress">Vordering: %d/%d</string>
+    <string name="ach_status">Status: %s</string>
+    <string name="unlocked">Ontsluit</string>
+    <string name="locked">Gesluit</string>
+
+    <string name="ach_first_workout">Eerste Oefensessie</string>
+    <string name="ach_first_workout_desc">Voltooi jou eerste oefensessie</string>
+
+    <string name="ach_streak_7">Week Vegter</string>
+    <string name="ach_streak_7_desc">Oefen vir 7 dae agtermekaar</string>
+
+    <string name="ach_calories_10000">Kalorie Vernietiger</string>
+    <string name="ach_calories_10000_desc">Verbrand 10 000 totale kalorieë</string>
+
+    <string name="ach_recipes_10">Meesterkok</string>
+    <string name="ach_recipes_10_desc">Kook 10 verskillende resepte</string>
+
+
+    <!-- Weather -->
+
+    <string name="location_enable_prompt">Skakel asseblief liggingdienste aan</string>
+    <string name="error_fetch_weather">Kon nie weerdata aflaai nie</string>
+    <string name="error_location_permission_denied">Liggingtoestemming geweier</string>
+
+
+    <!-- Weather Labels -->
+
+    <string name="weather_updated_at">Opgedateer om: %1$s</string>
+    <string name="temp_celsius_format">%1$d°C</string>
+    <string name="feels_like_format">Voel soos %1$d°C</string>
+    <string name="temp_min_format">L: %1$d°C</string>
+    <string name="temp_max_format">H: %1$d°C</string>
+    <string name="pressure_format">%1$s hPa</string>
+    <string name="humidity_format">%1$s%%</string>
+    <string name="wind_speed_format">%1$s m/s</string>
+    <string name="wind_speed_suffix">m/s</string>
+    <string name="visibility_km_format">%1$d km</string>
+
+
+    <!-- Weather Activities -->
+
+    <string name="activity_running">Hardloop</string>
+    <string name="activity_cycling">Fietsry</string>
+    <string name="activity_hiking">Stap</string>
+    <string name="activity_outdoor_gym">Buite Gim</string>
+    <string name="activity_swimming">Swem</string>
+
+
+    <!-- Weather Recommendations -->
+
+    <!-- Running -->
+    <string name="running_recommendation_perfect">Perfekte hardlooptoestande! Ideale temperatuur en helder lug.</string>
+    <string name="running_recommendation_good">Goeie hardloopweer. Trek geskik aan vir die temperatuur.</string>
+    <string name="running_recommendation_fair">Redelike toestande. Oorweeg binnenshuise alternatiewe.</string>
+    <string name="running_recommendation_poor">Nie geskik vir hardloop nie. Slegte weerstoestande.</string>
+
+    <!-- Cycling -->
+    <string name="cycling_recommendation_excellent">Uitstekende fietsryweer! Lae wind en goeie sigbaarheid.</string>
+    <string name="cycling_recommendation_good">Goeie fietsrytoestande. Wees bedag op windvlugte.</string>
+    <string name="cycling_recommendation_fair">Redelike toestande. Oorweeg moontlike windweerstand.</string>
+    <string name="cycling_recommendation_poor">Uitdagende toestande. Hoë wind of swak sigbaarheid.</string>
+
+    <!-- Hiking -->
+    <string name="hiking_recommendation_perfect">Perfekte stapweer! Goeie sigbaarheid en gemaklike temperatuur.</string>
+    <string name="hiking_recommendation_good">Goeie weer vir stap. Die roetes behoort lekker te wees.</string>
+    <string name="hiking_recommendation_fair">Redelik. Kyk eers die roetetoestande na.</string>
+    <string name="hiking_recommendation_poor">Swak staptoestande. Beperkte sigbaarheid of ongunstige weer.</string>
+
+    <!-- Outdoor Gym -->
+    <string name="gym_recommendation_ideal">Ideaal vir buite-oefeninge! Gemaklike temperatuur.</string>
+    <string name="gym_recommendation_good">Goeie toestande vir buite-oefening.</string>
+    <string name="gym_recommendation_fair">Redelike toestande. Dra lae klere.</string>
+    <string name="gym_recommendation_indoor">Oorweeg ’n binne-gim. Weer is nie geskik vir buite-oefening nie.</string>
+
+    <!-- Swimming -->
+    <string name="swimming_recommendation_perfect">Perfekte swemweer! Warm en sonnig.</string>
+    <string name="swimming_recommendation_good">Goeie swemtoestande. Die water kan verfrissend wees.</string>
+    <string name="swimming_recommendation_cool">Effens koel vir swem. Oorweeg ’n verhitte swembad.</string>
+
+</resources>
